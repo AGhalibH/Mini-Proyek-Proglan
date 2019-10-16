@@ -21,7 +21,7 @@ Aplikasi Modul :
 - While Loop
 - Struct
 
-Hasil Program :
+## HASIL PROGRAM :
 
 1. Main Menu :
 
